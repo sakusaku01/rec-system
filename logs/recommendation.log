@@ -1,0 +1,8 @@
+2023-03-05 00:45:45 INFO  KafkaTemplateP:17 - Message sent -> hello bro
+2023-03-05 00:45:45 INFO  KafkaConsumer:14 - Message received -> hello bro
+2023-03-05 18:03:55 INFO  KafkaTemplateP:17 - Message sent -> hibro
+2023-03-05 18:03:56 INFO  KafkaConsumer:14 - Message received -> hibro
+2023-03-05 18:22:00 INFO  MyKafkaTemplate:17 - Message sent -> john,21
+2023-03-05 18:22:00 INFO  KafkaConsumer:14 - Message received -> "john"
+2023-03-05 18:24:21 INFO  MyKafkaTemplate:18 - Message sent -> kg.megacom.Recommendation.system.Recommendation.system.model.request.LoginRequest@2d695e08
+2023-03-05 18:24:21 INFO  KafkaConsumer:14 - Message received -> {"email":"john","password":"strin12g"}
